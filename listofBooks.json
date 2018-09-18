@@ -5,8 +5,8 @@
       "title":"El rey recibe",
       "author": "Eduardo de Mendoza",
       "description": "Barcelona, 1968. Rufo Batalla recibe su primer encargo como plumilla en un periódico: cubrir la boda de un príncipe en el exilio con una bella señorita de la alta sociedad. Coincidencias y malentendidos le llevan a trabar amistad con el príncipe, que le encomienda, entre otras cosas, escribir la crónica de su peculiar historia. El opresivo ambiente de la gris España franquista pronto se quedará pequeño para Rufo, que viajará a Nueva York con poco dinero, grandes esperanzas y el difuso objetivo de hacer algo emocionante con su vida. Rufo Batalla será testigo de los fenómenos sociales de los años setenta, como la igualdad racial, el feminismo, el movimiento gay o el desplazamiento de los grandes centros culturales y la deriva de la cultura hacia nuevas formas de expresión, fenómenos que en buena parte hicieron del presente lo que es hoy. Y dejará constancia, no tanto de los hechos como de la forma en que lo vivieron quienes los presenciaron. Con la conocida unión de maestría narrativa y refinamiento estilístico del autor, personajes reales e imaginarios, típicos del universo de Eduardo Mendoza, se dan la mano en esta novela, brillante inicio de la trilogía Las Tres Leyes del Movimiento, que recorrerá los principales acontecimientos de la segunda mitad del siglo XX.",
-      "price": 20.34,
-      "stock": 500,
+      "price": "20.34",
+      "stock": "500",
       "isFavourite": "false",
       "genere": "novela"
       
@@ -17,8 +17,8 @@
       "title":"Tokio Blues",
       "author": "Haruki Murakami",
       "description": "Mientras aterriza en un aeropuerto europeo, Toru Watanabe, un ejecutivo de 37 años, escucha una vieja canción de los Beatles que le hace retroceder a su juventud, al turbulento Tokio de los años sesenta. Con una mezcla de melancolía y desasosiego, Toru recuerda entonces a la inestable y misteriosa Naoko, la novia de su mejor y único amigo de la adolescencia, Kizuki. El suicidio de éste distanció a Toru y a Naoko durante un año, hasta que se reencontraron e iniciaron una relación íntima. Sin embargo, la aparición de otra mujer en la vida de Toru le lleva a experimentar el deslumbramiento y el desengaño allí donde todo debería cobrar sentido: el sexo, el amor y la muerte. Y ningún de los personajes parece capaz de alcanzar el frágil equilibrio entre las esperanzas juveniles y la necesidad de encontrar un lugar en el mundo.",
-      "price": 13.99,
-      "stock": 500,
+      "price": "13.99",
+      "stock": "500",
       "isFavourite": "false",
       "genere": "novela"
       
