@@ -21,6 +21,84 @@
       "stock": "500",
       "isFavourite": "false",
       "genere": "novela"
+   } ,
+    {
+     "img":"https://images-na.ssl-images-amazon.com/images/I/41iVg-QOa8L._SX319_BO1,204,203,200_.jpg",
+       "isbn":"9823-43-456-21-789",
+      "title":"En la carretera",
+      "author": "Jack Kerouac",
+      "description": "El Sal Paradise de todas las ediciones conocidas de esta novela mitica es aqui, al fin, Kerouac. Y tambien Cassady, Ginsberg, y Burroughs, aparecen con sus verdaderos nombres. Con la publicacion del rollo original, la gesta viajera y existencial de En la carretera se vuelve autobiografica de pleno derecho y a plena luz del dia, sin censura alguna. Y el relato adquiere toda su potencia narrativa. El lector tiene en sus manos una suerte de manifiesto de la beat generation. Seguimos a Kerouac y a toda la cafila que desfila por estas paginas en toda su desnudez y penuria. Precursores del movimiento hippy y la contracultura de finales de los anos sesenta, los personajes de esta novela pululan sin rumbo por Norteamerica. La sed vital insatisfecha, la busqueda de horizontes de sentido, de dicha y de conocimiento y los atisbos misticos se estrellan contra una realidad inhospita y desesperanzada. Un vivido compendio de los grandes temas, y al tiempo una apasionante aventura humana y una metafora de la existencia.",
+      "price": "37.54",
+      "stock": "1200",
+      "isFavourite": "false",
+      "genere": "novela"
+   } ,
+   ,
+    {
+     "img":"",
+       "isbn":"",
+      "title":"",
+      "author": "",
+      "description": "",
+      "price": "",
+      "stock": "",
+      "isFavourite": "false",
+      "genere": ""
+   } ,,
+    {
+     "img":"",
+       "isbn":"",
+      "title":"",
+      "author": "",
+      "description": "",
+      "price": "",
+      "stock": "",
+      "isFavourite": "false",
+      "genere": ""
+   } ,,
+    {
+     "img":"",
+       "isbn":"",
+      "title":"",
+      "author": "",
+      "description": "",
+      "price": "",
+      "stock": "",
+      "isFavourite": "false",
+      "genere": ""
+   } ,,
+    {
+     "img":"",
+       "isbn":"",
+      "title":"",
+      "author": "",
+      "description": "",
+      "price": "",
+      "stock": "",
+      "isFavourite": "false",
+      "genere": ""
+   } ,,
+    {
+     "img":"",
+       "isbn":"",
+      "title":"",
+      "author": "",
+      "description": "",
+      "price": "",
+      "stock": "",
+      "isFavourite": "false",
+      "genere": ""
+   } ,,
+    {
+     "img":"",
+       "isbn":"",
+      "title":"",
+      "author": "",
+      "description": "",
+      "price": "",
+      "stock": "",
+      "isFavourite": "false",
+      "genere": ""
    } 
   
 ]
