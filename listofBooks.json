@@ -8,7 +8,7 @@
       "price": "20.34",
       "stock": "500",
       "isFavourite": "false",
-      "genere": "novela"
+      "genere": "Novela"
       
    } ,
       {
@@ -20,7 +20,7 @@
       "price": "13.99",
       "stock": "500",
       "isFavourite": "false",
-      "genere": "novela"
+      "genere": "Novela"
    } ,
     {
      "img":"https://images-na.ssl-images-amazon.com/images/I/41iVg-QOa8L._SX319_BO1,204,203,200_.jpg",
@@ -31,7 +31,7 @@
       "price": "37.54",
       "stock": "1200",
       "isFavourite": "false",
-      "genere": "novela"
+      "genere": "Novela"
    } ,
    {
      "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/duro.jpg?raw=true",
@@ -42,8 +42,20 @@
       "price": "20.34",
       "stock": "500",
       "isFavourite": "false",
-      "genere": "comic"
+      "genere": "Cómic"
       
-   } 
+   } ,
+    {
+     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/ejercito.jpg?raw=true",
+       "isbn":"65643-3-245-21-78",
+      "title":"El ejercito de la sombra",
+      "author": "Oliver Speltens",
+      "description": "Barcelona, 1968. Rufo Batalla recibe su primer encargo como plumilla en un periódico: cubrir la boda de un príncipe en el exilio con una bella señorita de la alta sociedad. Coincidencias y malentendidos le llevan a trabar amistad con el príncipe, que le encomienda, entre otras cosas, escribir la crónica de su peculiar historia. El opresivo ambiente de la gris España franquista pronto se quedará pequeño para Rufo, que viajará a Nueva York con poco dinero, grandes esperanzas y el difuso objetivo de hacer algo emocionante con su vida. Rufo Batalla será testigo de los fenómenos sociales de los años setenta, como la igualdad racial, el feminismo, el movimiento gay o el desplazamiento de los grandes centros culturales y la deriva de la cultura hacia nuevas formas de expresión, fenómenos que en buena parte hicieron del presente lo que es hoy. Y dejará constancia, no tanto de los hechos como de la forma en que lo vivieron quienes los presenciaron. Con la conocida unión de maestría narrativa y refinamiento estilístico del autor, personajes reales e imaginarios, típicos del universo de Eduardo Mendoza, se dan la mano en esta novela, brillante inicio de la trilogía Las Tres Leyes del Movimiento, que recorrerá los principales acontecimientos de la segunda mitad del siglo XX.",
+      "price": "20.34",
+      "stock": "500",
+      "isFavourite": "false",
+      "genere": "Cómic"
+      
+   } ,
   
 ]
