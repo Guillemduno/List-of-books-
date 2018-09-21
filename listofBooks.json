@@ -1,14 +1,14 @@
 [
    {
-     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/duro.jpg?raw=true",
+     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/escarlatina.jpg?raw=true",
        "isbn":"65643-3-245-21-78",
-      "title":"El rey recibe",
-      "author": "Eduardo de Mendoza",
+      "title":"Escarlatina la cocinera cadáver",
+      "author": "Ledicia Costas",
       "description": "Barcelona, 1968. Rufo Batalla recibe su primer encargo como plumilla en un periódico: cubrir la boda de un príncipe en el exilio con una bella señorita de la alta sociedad. Coincidencias y malentendidos le llevan a trabar amistad con el príncipe, que le encomienda, entre otras cosas, escribir la crónica de su peculiar historia. El opresivo ambiente de la gris España franquista pronto se quedará pequeño para Rufo, que viajará a Nueva York con poco dinero, grandes esperanzas y el difuso objetivo de hacer algo emocionante con su vida. Rufo Batalla será testigo de los fenómenos sociales de los años setenta, como la igualdad racial, el feminismo, el movimiento gay o el desplazamiento de los grandes centros culturales y la deriva de la cultura hacia nuevas formas de expresión, fenómenos que en buena parte hicieron del presente lo que es hoy. Y dejará constancia, no tanto de los hechos como de la forma en que lo vivieron quienes los presenciaron. Con la conocida unión de maestría narrativa y refinamiento estilístico del autor, personajes reales e imaginarios, típicos del universo de Eduardo Mendoza, se dan la mano en esta novela, brillante inicio de la trilogía Las Tres Leyes del Movimiento, que recorrerá los principales acontecimientos de la segunda mitad del siglo XX.",
       "price": "20.34",
       "stock": "500",
       "isFavourite": "false",
-      "genere": "Novela"
+      "genere": "Infantil"
       
    } ,
       {
@@ -25,8 +25,8 @@
     {
      "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/chica.jpg?raw=true",
        "isbn":"9823-43-456-21-789",
-      "title":"En la carretera",
-      "author": "Jack Kerouac",
+      "title":"La chicha del cumpleaños",
+      "author": "Haruki Murakami",
       "description": "El Sal Paradise de todas las ediciones conocidas de esta novela mitica es aqui, al fin, Kerouac. Y tambien Cassady, Ginsberg, y Burroughs, aparecen con sus verdaderos nombres. Con la publicacion del rollo original, la gesta viajera y existencial de En la carretera se vuelve autobiografica de pleno derecho y a plena luz del dia, sin censura alguna. Y el relato adquiere toda su potencia narrativa. El lector tiene en sus manos una suerte de manifiesto de la beat generation. Seguimos a Kerouac y a toda la cafila que desfila por estas paginas en toda su desnudez y penuria. Precursores del movimiento hippy y la contracultura de finales de los anos sesenta, los personajes de esta novela pululan sin rumbo por Norteamerica. La sed vital insatisfecha, la busqueda de horizontes de sentido, de dicha y de conocimiento y los atisbos misticos se estrellan contra una realidad inhospita y desesperanzada. Un vivido compendio de los grandes temas, y al tiempo una apasionante aventura humana y una metafora de la existencia.",
       "price": "37.54",
       "stock": "1200",
@@ -57,36 +57,58 @@
       
    }  ,
     {
-     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/ejercito.jpg?raw=true",
+     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/esmeraldina.jpg?raw=true",
        "isbn":"65643-3-245-21-78",
-      "title":"El ejercito de la sombra",
-      "author": "Oliver Speltens",
+      "title":"Esmeraldina la pequeña fantasma",
+      "author": "Ledicia Costas",
       "description": "Barcelona, 1968. Rufo Batalla recibe su primer encargo como plumilla en un periódico: cubrir la boda de un príncipe en el exilio con una bella señorita de la alta sociedad. Coincidencias y malentendidos le llevan a trabar amistad con el príncipe, que le encomienda, entre otras cosas, escribir la crónica de su peculiar historia. El opresivo ambiente de la gris España franquista pronto se quedará pequeño para Rufo, que viajará a Nueva York con poco dinero, grandes esperanzas y el difuso objetivo de hacer algo emocionante con su vida. Rufo Batalla será testigo de los fenómenos sociales de los años setenta, como la igualdad racial, el feminismo, el movimiento gay o el desplazamiento de los grandes centros culturales y la deriva de la cultura hacia nuevas formas de expresión, fenómenos que en buena parte hicieron del presente lo que es hoy. Y dejará constancia, no tanto de los hechos como de la forma en que lo vivieron quienes los presenciaron. Con la conocida unión de maestría narrativa y refinamiento estilístico del autor, personajes reales e imaginarios, típicos del universo de Eduardo Mendoza, se dan la mano en esta novela, brillante inicio de la trilogía Las Tres Leyes del Movimiento, que recorrerá los principales acontecimientos de la segunda mitad del siglo XX.",
       "price": "20.34",
       "stock": "500",
       "isFavourite": "false",
-      "genere": "Cómic"
+      "genere": "Infantil"
    }  ,
     {
-     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/ejercito.jpg?raw=true",
+     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/futbolisimos.jpg?raw=true",
        "isbn":"65643-3-245-21-78",
-      "title":"El ejercito de la sombra",
-      "author": "Oliver Speltens",
+      "title":"El misterio del obelisco mágico",
+      "author": "Roberto Santiago",
       "description": "Barcelona, 1968. Rufo Batalla recibe su primer encargo como plumilla en un periódico: cubrir la boda de un príncipe en el exilio con una bella señorita de la alta sociedad. Coincidencias y malentendidos le llevan a trabar amistad con el príncipe, que le encomienda, entre otras cosas, escribir la crónica de su peculiar historia. El opresivo ambiente de la gris España franquista pronto se quedará pequeño para Rufo, que viajará a Nueva York con poco dinero, grandes esperanzas y el difuso objetivo de hacer algo emocionante con su vida. Rufo Batalla será testigo de los fenómenos sociales de los años setenta, como la igualdad racial, el feminismo, el movimiento gay o el desplazamiento de los grandes centros culturales y la deriva de la cultura hacia nuevas formas de expresión, fenómenos que en buena parte hicieron del presente lo que es hoy. Y dejará constancia, no tanto de los hechos como de la forma en que lo vivieron quienes los presenciaron. Con la conocida unión de maestría narrativa y refinamiento estilístico del autor, personajes reales e imaginarios, típicos del universo de Eduardo Mendoza, se dan la mano en esta novela, brillante inicio de la trilogía Las Tres Leyes del Movimiento, que recorrerá los principales acontecimientos de la segunda mitad del siglo XX.",
       "price": "20.34",
       "stock": "500",
       "isFavourite": "false",
-      "genere": "Cómic"
+      "genere": "Infantil"
    }  ,
     {
-     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/kafka.jpg?raw=true",
-       "isbn":"65643-3-245-21-78",
-      "title":"El ejercito de la sombra",
-      "author": "Oliver Speltens",
+     "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/hijas.jpg?raw=true",
+       "isbn":"00076-456-36-728",
+      "title":"las hijas del capitán",
+      "author": "Maria Dueñas",
       "description": "Barcelona, 1968. Rufo Batalla recibe su primer encargo como plumilla en un periódico: cubrir la boda de un príncipe en el exilio con una bella señorita de la alta sociedad. Coincidencias y malentendidos le llevan a trabar amistad con el príncipe, que le encomienda, entre otras cosas, escribir la crónica de su peculiar historia. El opresivo ambiente de la gris España franquista pronto se quedará pequeño para Rufo, que viajará a Nueva York con poco dinero, grandes esperanzas y el difuso objetivo de hacer algo emocionante con su vida. Rufo Batalla será testigo de los fenómenos sociales de los años setenta, como la igualdad racial, el feminismo, el movimiento gay o el desplazamiento de los grandes centros culturales y la deriva de la cultura hacia nuevas formas de expresión, fenómenos que en buena parte hicieron del presente lo que es hoy. Y dejará constancia, no tanto de los hechos como de la forma en que lo vivieron quienes los presenciaron. Con la conocida unión de maestría narrativa y refinamiento estilístico del autor, personajes reales e imaginarios, típicos del universo de Eduardo Mendoza, se dan la mano en esta novela, brillante inicio de la trilogía Las Tres Leyes del Movimiento, que recorrerá los principales acontecimientos de la segunda mitad del siglo XX.",
-      "price": "20.34",
+      "price": "15.65",
       "stock": "500",
       "isFavourite": "false",
-      "genere": "Cómic"
-   } 
+      "genere": "Novela"
+   } ,
+   {
+    "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/kafka.jpg?raw=true",
+      "isbn":"00076-456-36-728",
+     "title":"Kafka en la orilla",
+     "author": "Haruki Murakami",
+     "description": "Barcelona, 1968. Rufo Batalla recibe su primer encargo como plumilla en un periódico: cubrir la boda de un príncipe en el exilio con una bella señorita de la alta sociedad. Coincidencias y malentendidos le llevan a trabar amistad con el príncipe, que le encomienda, entre otras cosas, escribir la crónica de su peculiar historia. El opresivo ambiente de la gris España franquista pronto se quedará pequeño para Rufo, que viajará a Nueva York con poco dinero, grandes esperanzas y el difuso objetivo de hacer algo emocionante con su vida. Rufo Batalla será testigo de los fenómenos sociales de los años setenta, como la igualdad racial, el feminismo, el movimiento gay o el desplazamiento de los grandes centros culturales y la deriva de la cultura hacia nuevas formas de expresión, fenómenos que en buena parte hicieron del presente lo que es hoy. Y dejará constancia, no tanto de los hechos como de la forma en que lo vivieron quienes los presenciaron. Con la conocida unión de maestría narrativa y refinamiento estilístico del autor, personajes reales e imaginarios, típicos del universo de Eduardo Mendoza, se dan la mano en esta novela, brillante inicio de la trilogía Las Tres Leyes del Movimiento, que recorrerá los principales acontecimientos de la segunda mitad del siglo XX.",
+     "price": "24.99",
+     "stock": "2500",
+     "isFavourite": "false",
+     "genere": "Novela"
+  } ,
+  {
+   "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/lajovenfrances.jpg?raw=true",
+     "isbn":"2777-54-692-321",
+    "title":"La joven frances",
+    "author": "Hartley Lyn",
+    "description": "Barcelona, 1968. Rufo Batalla recibe su primer encargo como plumilla en un periódico: cubrir la boda de un príncipe en el exilio con una bella señorita de la alta sociedad. Coincidencias y malentendidos le llevan a trabar amistad con el príncipe, que le encomienda, entre otras cosas, escribir la crónica de su peculiar historia. El opresivo ambiente de la gris España franquista pronto se quedará pequeño para Rufo, que viajará a Nueva York con poco dinero, grandes esperanzas y el difuso objetivo de hacer algo emocionante con su vida. Rufo Batalla será testigo de los fenómenos sociales de los años setenta, como la igualdad racial, el feminismo, el movimiento gay o el desplazamiento de los grandes centros culturales y la deriva de la cultura hacia nuevas formas de expresión, fenómenos que en buena parte hicieron del presente lo que es hoy. Y dejará constancia, no tanto de los hechos como de la forma en que lo vivieron quienes los presenciaron. Con la conocida unión de maestría narrativa y refinamiento estilístico del autor, personajes reales e imaginarios, típicos del universo de Eduardo Mendoza, se dan la mano en esta novela, brillante inicio de la trilogía Las Tres Leyes del Movimiento, que recorrerá los principales acontecimientos de la segunda mitad del siglo XX.",
+    "price": "12.00",
+    "stock": "2500",
+    "isFavourite": "false",
+    "genere": "Novela"
+ } 
 ]
