@@ -43,7 +43,6 @@
       "stock": "500",
       "isFavourite": "false",
       "genere": "Cómic"
-      
    } ,
     {
      "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/ejercito.jpg?raw=true",
@@ -67,7 +66,6 @@
       "stock": "500",
       "isFavourite": "false",
       "genere": "Cómic"
-      
    }  ,
     {
      "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/ejercito.jpg?raw=true",
@@ -79,7 +77,6 @@
       "stock": "500",
       "isFavourite": "false",
       "genere": "Cómic"
-      
    }  ,
     {
      "img":"https://github.com/Guillemduno/storeBook/blob/master/src/assets/ejercito.jpg?raw=true",
@@ -91,6 +88,5 @@
       "stock": "500",
       "isFavourite": "false",
       "genere": "Cómic"
-      
    } 
 ]
